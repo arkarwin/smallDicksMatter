@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arkarwin/smallDicksMatter/issues"
   },
-  "homepage": "https://github.com/arkarwin/smallDicksMatter#readme"
+  "homepage": "https://github.com/arkarwin/smallDicksMatter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
